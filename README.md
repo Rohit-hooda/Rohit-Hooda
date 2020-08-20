@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 ## 🤔 I’m looking for help with ...
 ## 💬 Ask me about anything!
 ## 📫 How to reach me: rohithooda1999@gmail.com
-## ⚡ Fun fact: Banging your head against a code for one hour burns 150 calories.
+## ⚡ Fun fact: Banging your head against your code for one hour burns 150 calories.
