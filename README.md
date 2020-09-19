@@ -43,7 +43,7 @@
 ---
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="Rohit's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Rohit-hooda&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="Rohit's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Rohit-hooda&show_icons=true&hide_border=true" />
 </details>
 
 [website]: https://rohit-hooda.github.io/
