@@ -1,11 +1,14 @@
-### Hi there, I'm Rohit - aka Hoodie [Rohit hooda][website] 👋
+### Hey there, I'm Rohit - aka Hoodie [Rohit hooda][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a Student, Developer !
-- 🔭 I’m currently working on developing applications with JavaScript.
-- 🌱 I’m currently learning everything 🤣😆
+
+## I'm a Student, Developer !  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+- 🔭 I’m currently working on something cool 😉.
+- 🌱 I’m currently learning everything 🤣😆.
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2020 Goals: Start Contributing to Open Source projects.
 - ⚡ Fun fact: I love to play games and travel.
+- 📝[Resume](https://drive.google.com/file/d/1eZZ9rVpVOWeSL2CBnhj_JvNYHT-G6Iac/view?usp=sharing)
 
 ### Connect with me:
 
