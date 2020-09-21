@@ -1,7 +1,7 @@
 ### Hey there, I'm Rohit - aka Hoodie [Rohit hooda][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-## I'm a Student, Developer !  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+## I'm a Student, Developer !  <img align="right" alt="GIF" src="code.gif" width="500"/>
 
 - 🔭 I’m currently working on something cool 😉.
 - 🌱 I’m currently learning everything 🤣😆.
