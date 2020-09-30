@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2020 Goals: Start Contributing to Open Source projects.
 - ⚡ Fun fact: I love to play games and travel.
-- 📝[Resume](https://drive.google.com/file/d/1eZZ9rVpVOWeSL2CBnhj_JvNYHT-G6Iac/view?usp=sharing)
+- 📝[Resume](https://github.com/Rohit-hooda/Rohit-Hooda.github.io/blob/master/resume.pdf)
 
 ### Connect with me:
 
@@ -41,6 +41,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Create a full fake "REST API" with zero coding in less than 30 seconds (seriously).](https://dev.to/rohithooda/create-a-full-fake-rest-api-with-zero-coding-in-less-than-30-seconds-seriously-2lfk)
+-[Create your own version of ProtonMail.](https://dev.to/rohithooda/create-your-own-version-of-protonmail-fdi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
