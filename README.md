@@ -40,8 +40,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a full fake "REST API" with zero coding in less than 30 seconds (seriously).](https://dev.to/rohithooda/create-a-full-fake-rest-api-with-zero-coding-in-less-than-30-seconds-seriously-2lfk)
--[Create your own version of ProtonMail.](https://dev.to/rohithooda/create-your-own-version-of-protonmail-fdi)
+- [Create a full fake "REST API" with zero coding in less than 30 seconds (seriously).](https://dev.to/rohithooda/create-a-full-fake-rest-api-with-zero-coding-in-less-than-30-seconds-seriously-2lfk) 
+- [Create your own version of ProtonMail.](https://dev.to/rohithooda/create-your-own-version-of-protonmail-fdi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
