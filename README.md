@@ -1,4 +1,4 @@
-### Hey there, I'm Rohit - aka Hoodie [Rohit hooda][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, I'm [Rohit hooda][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 ## I'm a Student, Developer !  <img align="right" alt="GIF" src="code.gif" width="500"/>
