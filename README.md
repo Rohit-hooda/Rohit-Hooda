@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2020 Goals: Start Contributing to Open Source projects.
 - ⚡ Fun fact: I love to play games and travel.
-- 📝[Resume](https://portfoliostuff.s3.ap-south-1.amazonaws.com/resume.pdf)
 
 ### Connect with me:
 
