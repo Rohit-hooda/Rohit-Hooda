@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on something cool 😉.
 - 🌱 I’m currently learning everything 🤣😆.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2020 Goals: Start Contributing to Open Source projects.
+- 🥅 Goals: Start Contributing to Open Source projects.
 - ⚡ Fun fact: I love to play games and travel.
 
 ### Connect with me:
