@@ -43,5 +43,5 @@
 
 ---
 
-[Website]: https://rohit-hooda.github.io/
+[Website]: https://rohit-hooda.github.io/Portfolio/
 [Linkedin]: https://www.linkedin.com/in/rohit-hooda/
