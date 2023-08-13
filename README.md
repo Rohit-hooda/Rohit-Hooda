@@ -44,4 +44,4 @@
 ---
 
 [Website]: https://rohit-hooda.github.io/Portfolio/
-[Linkedin]: https://www.linkedin.com/in/rohit-hooda/
+[Linkedin]: https://www.linkedin.com/in/rohithooda/
